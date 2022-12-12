@@ -23,3 +23,12 @@ def get_participants(handshakes):
         if handshakes <= handshakes_now:
             break
     return counting_up_people
+
+
+
+
+
+
+
+
+
