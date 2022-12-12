@@ -20,3 +20,5 @@ def nb_year(p0, percent, aug, p):
         p0 = math.floor(p0)
         n += 1  
     return n
+
+
