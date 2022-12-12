@@ -26,9 +26,3 @@ def get_participants(handshakes):
 
 
 
-
-
-
-
-
-
