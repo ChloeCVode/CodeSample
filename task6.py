@@ -39,7 +39,7 @@ def solution(number):
             multiples_of5_list = []
 
             # Right there we calculate how many times we can multiply 3 and 5, for it to be equal or 1 step from
-            # being bigger than number, so we can use this number as range in for loop later on.
+            # being bigger than number, so we can use this number(range) as range in for loop later on.
 
             range_for3 = int(float(number / 3))
             range_for5 = int(float(number / 5))
