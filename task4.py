@@ -19,7 +19,6 @@ def get_count(sentence):
         sum = 0
         for i in args:
             sum += i
-            print(sum)
         return sum
     return (add(count1,count2,count3,count4,count5))
 
