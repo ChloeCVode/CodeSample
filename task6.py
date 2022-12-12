@@ -89,3 +89,5 @@ def solution(number):
         Sum_of_multiples_3_and_5 = multiples_of3_sum + multiples_of5_sum - Sum_of_non_unique
 
     return Sum_of_multiples_3_and_5
+
+
