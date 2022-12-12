@@ -27,3 +27,6 @@ def make_readable(seconds):
 
     list = str(full_hours).zfill(2) + ":" + str(full_minutes).zfill(2) + ":" + str(rest_of_seconds).zfill(2)
     return list
+
+
+
