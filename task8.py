@@ -15,3 +15,6 @@ def move_zeros(lst):
     for i in range(Count_zeros):
         lst.append(0)
     return lst
+
+
+
