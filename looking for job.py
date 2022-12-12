@@ -7,8 +7,3 @@
 
 # On this github there are few of my codes, if you found them interesting or well-written contact me!
 #                              contact: chloekontaktb@gmail.com
-
-
-
-
-
