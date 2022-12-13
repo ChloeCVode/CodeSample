@@ -105,3 +105,6 @@ class SnakesLadders:
             else:
                 return "Player 2 is on square " + str(player_2.x)
 
+            
+            
+            
