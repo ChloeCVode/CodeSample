@@ -72,10 +72,13 @@ def next_bigger(n):
         #  Part above was described before, part below is just converting strings into int
 
 
-        start = "".join(beginning)+"".join(end)
-        start = int(start)
-        return start
+        next_bigger = "".join(beginning)+"".join(end)
+        next_bigger = int(next_bigger)
+        return next_bigger
     else:
-        start = "".join(numbers_separated[1])+"".join(numbers_separated[0])
-        start = int(start)
-        return start
+        next_bigger = "".join(numbers_separated[1])+"".join(numbers_separated[0])
+        next_bigger = int(next_bigger)
+        return next_bigger
+    
+    
+    
