@@ -81,3 +81,6 @@ def get_pins(observed):
             possibilities.pop(i)
 
     return possibilities
+
+
+
