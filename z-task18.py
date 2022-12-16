@@ -92,3 +92,6 @@ class Sudoku(object):
             return True
         else:
             return False
+        
+        
+        
