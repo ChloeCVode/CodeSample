@@ -61,3 +61,5 @@ def simplify(examples,formula):
     Result_and_variable = "".join(str(Result)+our_variable[0])
     formula = [Result_and_variable]
     return formula[0]
+
+
